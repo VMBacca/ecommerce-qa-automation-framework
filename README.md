@@ -33,6 +33,7 @@ The framework covers typical e-commerce workflows such as:
 
 ## Project Structure
 
+```bash
 ecommerce-qa-automation-framework/
 │
 ├── cypress/
@@ -47,6 +48,7 @@ ecommerce-qa-automation-framework/
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
 
 ## How to Run
 
