@@ -33,13 +33,20 @@ The framework covers typical e-commerce workflows such as:
 
 ## Project Structure
 
-cypress/
-├── e2e/
-├── support/
-├── fixtures/
-.github/
-cypress.config.js
-package.json
+ecommerce-qa-automation-framework/
+│
+├── cypress/
+│   ├── e2e/
+│   ├── support/
+│   └── fixtures/
+│
+├── .github/
+│   └── workflows/
+│
+├── cypress.config.js
+├── package.json
+├── package-lock.json
+└── README.md
 
 ## How to Run
 
